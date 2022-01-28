@@ -1,0 +1,35 @@
+
+
+.container{
+    
+    
+    text-align: center;
+}
+
+.title{
+
+    font-size: 32px;
+    padding: 10px 0;
+}
+
+p{
+    font-size: 30px;
+}
+
+.message{
+    padding: 20px 0;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+.txt{
+    height: 30px;
+    
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    padding: 0 0 10px;
+}
